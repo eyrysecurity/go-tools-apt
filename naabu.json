@@ -1,0 +1,23 @@
+{
+    "name": "naabu",
+    "maintainer": "ProjectDiscovery",
+    "description": "A fast port scanner written in go with focus on reliability and simplicity",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/projectdiscovery/naabu",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/naabu",
+            "to": "/usr/bin/naabu",
+            "base": "/home/pry/go/bin/naabu",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "ProjectDiscovery",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}

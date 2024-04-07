@@ -1,0 +1,23 @@
+{
+    "name": "katana",
+    "maintainer": "ProjectDiscovery",
+    "description": "A HTTP crawler",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/projectdiscovery/katana",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/katana",
+            "to": "/usr/bin/katana",
+            "base": "/home/pry/go/bin/katana",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "ProjectDiscovery",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}

@@ -1,9 +1,9 @@
 
-Origin: Eyry
-Label: Eyry Github
+Origin: Eyry Security
+Label: Go Tools Apt Repository
 Suite: stable
 Codename: jammy
 Architectures: amd64
 Components: main
-Description: Debian x64 github repository
+Description: Debian x64 github repository for Go tools
 SignWith: eyrysecurity@gmail.com

@@ -7,12 +7,29 @@ Priority: 0
 Section: utils
 Filename: pool/main/d/dnsx/dnsx_1.2.1_amd64.deb
 Size: 15139648
-SHA256: 13ab98135aeb9625473277f508f073730223a586e8b2b924514ef58231d1a7d2
-SHA1: 850a33285dfa6a3047995a2383c311f460d9d07f
-MD5sum: 56b8f9d255f097a6de52ac0f4ed89cdf
+SHA256: e046bb7510eab122d54c59bba5a04d3ec058c22e0426395672908eec04035f19
+SHA1: 2e61aa4b947b6331e1e14575e78dc4502211365e
+MD5sum: ea93f1cb47ad60de8b1a718764e4f0aa
 Description: DNSX is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers
 Architecture: amd64
 Installed-Size: 37 kB
+Package-Type: deb
+
+Package: ffuf
+Version: 2.1.0
+Source: ffuf
+Maintainer: joohoi
+Homepage: https://github.com/ffuf/ffuf
+Priority: 0
+Section: utils
+Filename: pool/main/f/ffuf/ffuf_2.1.0_amd64.deb
+Size: 6143192
+SHA256: b8f098217aff0251d864810150c338365a40771f66a8b16dca91c29cbed2d2ad
+SHA1: 69bcdca085ec39d5c80fc4f072d8985e6faedb97
+MD5sum: 1b4382015ea8387ced2648c4146f77b1
+Description: Fast web fuzzer written in Go
+Architecture: amd64
+Installed-Size: 12 kB
 Package-Type: deb
 
 Package: httpx
@@ -23,13 +40,30 @@ Homepage: https://github.com/projectdiscovery/httpx
 Priority: 0
 Section: utils
 Filename: pool/main/h/httpx/httpx_1.6.0_amd64.deb
-Size: 20977906
-SHA256: 02baf8eae5d5ad7a0d02caa812bbbd8aae15c4064e5952d111fc4d0bf62bdb5e
-SHA1: f82e7d85dd2c66a4ecd5bb58ad52a9b370cb7e8f
-MD5sum: 976da17a064aef29bcd327e28a977b4d
+Size: 20977918
+SHA256: 3c5aa285fd33a484f35a7e982b024906f36dd22737d8fc8c86aeec49736db437
+SHA1: 3cf664f7a66342d8b0b5fa226d911f33c021617b
+MD5sum: 0f29648a34a5374f377702a6fe4cdbfc
 Description: Fast and Multi-purpose HTTP Toolkit
 Architecture: amd64
 Installed-Size: 51 kB
+Package-Type: deb
+
+Package: katana
+Version: 1.1.0
+Source: katana
+Maintainer: ProjectDiscovery
+Homepage: https://github.com/projectdiscovery/katana
+Priority: 0
+Section: utils
+Filename: pool/main/k/katana/katana_1.1.0_amd64.deb
+Size: 19449064
+SHA256: 09c3ce390625b67eeb0126ef8b0ce8c9d055ea9b31fc46ebb8862248117287de
+SHA1: cec6bc9451e197bf0d88194731a50b389517dbed
+MD5sum: cd1eec97825ebb9a52d102ab47af80a4
+Description: A HTTP crawler
+Architecture: amd64
+Installed-Size: 48 kB
 Package-Type: deb
 
 Package: nuclei
@@ -40,10 +74,10 @@ Homepage: https://github.com/projectdiscovery/nuclei
 Priority: 0
 Section: utils
 Filename: pool/main/n/nuclei/nuclei_3.2.3_amd64.deb
-Size: 41707418
-SHA256: d6f9a05b381c116f00e35082e4771c01b7c5f4c801d001d238b5faaa649056a3
-SHA1: f5050ef90b74de9ad4ec8e327a2637dfc469e46c
-MD5sum: b3376f3bea5f4a89d39b7dcc07cafd4f
+Size: 41707452
+SHA256: 604db86bb1452084dd2d14c45c8851e13eaa5281d1b91d2f60640767c09c3381
+SHA1: c07d9f0062c036b446e9b0809b177d8ebf25d996
+MD5sum: 8ef0ef2698366af245772f8e59261c5d
 Description: Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use
 Architecture: amd64
 Installed-Size: 102 kB
@@ -57,10 +91,10 @@ Homepage: https://github.com/projectdiscovery/subfinder
 Priority: 0
 Section: utils
 Filename: pool/main/s/subfinder/subfinder_2.6.6_amd64.deb
-Size: 15344502
-SHA256: 68ef415b7e4dfa7ede0b12857d714dcb4783f62c86f966f97c677b5362d8b1ac
-SHA1: b6e69be9f0de8f81c0f0f65cdc4cd5aa55d0919e
-MD5sum: 06d0dc5429f3dc774d51d62e774a4b3f
+Size: 15344510
+SHA256: 46c797532d68b41fcadf8c94344f6463eb7468cfdc0b63f222ae5724d079e5e4
+SHA1: f21ef022ca928f35a082c3dce69cc6a3258339f5
+MD5sum: 5f96868ef3e4ccfe25cfcb4871fc04be
 Description: Subdomain discovery tool that discovers valid subdomains for websites
 Architecture: amd64
 Installed-Size: 38 kB

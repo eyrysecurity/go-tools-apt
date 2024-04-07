@@ -1,0 +1,23 @@
+{
+    "name": "ffuf",
+    "maintainer": "joohoi",
+    "description": "Fast web fuzzer written in Go",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/ffuf/ffuf",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/ffuf",
+            "to": "/usr/bin/ffuf",
+            "base": "/home/pry/go/bin/ffuf",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "joohoi",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}

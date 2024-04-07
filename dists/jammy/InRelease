@@ -1,37 +1,37 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-Origin: Eyry
-Label: Eyry Github
+Origin: Eyry Security
+Label: Go Tools Apt Repository
 Suite: stable
 Codename: jammy
-Date: Sun, 07 Apr 2024 06:51:37 UTC
+Date: Sun, 07 Apr 2024 06:59:04 UTC
 Architectures: amd64
 Components: main
-Description: Debian x64 github repository
+Description: Debian x64 github repository for Go tools
 MD5Sum:
- 2ba3695368efd433f88c92f210b1c48f 2191 main/binary-amd64/Packages
- eee63ced530730b2ecb92094cdc849e9 967 main/binary-amd64/Packages.gz
- 38552f03e3c16db28d702405283a684e 126 main/binary-amd64/Release
+ 17d5148d76af4efe4f9512a4aa42faef 3117 main/binary-amd64/Packages
+ a276a02e0d18755df6015455f1ddfb39 1272 main/binary-amd64/Packages.gz
+ df40ead2efc715adb9cb2df54cef434b 160 main/binary-amd64/Release
 SHA1:
- 864a3303d61b7d00b61f904100bfa95a84f36a91 2191 main/binary-amd64/Packages
- 462de9823d4c48507839249f6e4a13daf900ba18 967 main/binary-amd64/Packages.gz
- 5dc12592ef947eb85da8f1f1f1957b904f4110a9 126 main/binary-amd64/Release
+ 0577e98ff3ce71f97674f3187c03d2f55845162b 3117 main/binary-amd64/Packages
+ 5ee617aca32a95cb95427ae016d80550f3bc3f21 1272 main/binary-amd64/Packages.gz
+ 50710c32dbbc3604b3e6efa58c972ba9ae184c3f 160 main/binary-amd64/Release
 SHA256:
- 5aa2aae4057f9648e8cc87ca7b990987714d36422ba7ba014020cd05c823de52 2191 main/binary-amd64/Packages
- cfab9c069692eb13ea76af1b0d14e9e773231837aae323a2fd99517f326f53f7 967 main/binary-amd64/Packages.gz
- 36079b491a6e104672279c19ae8da3ead2e0e73cded5f22c2609779e6cc0f7a7 126 main/binary-amd64/Release
+ 9504201e221f07b980af514b252d12f935db7c4e5c041f239bc53dd5f1aebe29 3117 main/binary-amd64/Packages
+ 13b606e5c69df07971ce6b335cf40a207bb29d91ec72995a8134e97aa5326c8a 1272 main/binary-amd64/Packages.gz
+ 6b5fdc3252290f48cfac2340c62e331924de65049359007dbace179feecfc4b9 160 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEGPPg/q7F+lwSFQPzSPL+R9MRlPMFAmYSQnkACgkQSPL+R9MR
-lPNozwv5ARmHw3wLenQ+8+9iJro/r18j52b88pdSy2PuGmELtkyxo6gop7tCHAxj
-GxG5Orn86K3fQ33dMN3q7f1b75G/E4iqf8o3i0CrQvs3lZDBpUiHT2IqJQSWf13t
-aFaDrpff5MQx2i3Td8wCvfbysQDB04oXeqe0E0ETgVADJskkPNK3pvmvdolk+s3k
-foCL5l2FZMlsR/KCyMyW0jfu6S5TaLlUYpVDymBeBX8vQbZOIvh9UXFLnaqNWU0f
-zExDEf4Fqi/XDzhZUrn9cApLfhhg1psuotoR3sbwt3xPPC4/m1zQz2Bt1dA2cy0+
-NNx5ts858XrQiF9ayvXxfaIi//cUtxGKrvIXTXardqktQqn4YLwpNo8J5Nc4oIxc
-xd38DGYekF54//msxpMv2fnv5DC7l7MCdG7BLiXpOlbytaDLdStVJ8a3vOgXC+Ho
-v7BPm4TFkx/FHjYSFfEbwknKAebuT6ZNwcGAXyBvNBqPl4HRfi6thUbsGewweaOy
-KK5iMwsN
-=0rXT
+iQGzBAEBCAAdFiEEGPPg/q7F+lwSFQPzSPL+R9MRlPMFAmYSRDgACgkQSPL+R9MR
+lPMsGAv/c3WbwcHs1pKwvlGWYk8fNhBt3sqEUiw/mw5i31EykKx/1KsV9ns+7K2F
+gDCv7qY91vk5aZRx+FYKCFyY5GdgsoWMTghYzpavgAHLECbAOLRrQbDAuc3HGyou
+93a2juuAAClHPxKkSZJWaMNQ9HwzXb7hKiWg5+tocGe2+Rn3JVfZsHW7L/EweDcq
+YVw6MSZmNmO4I0lBHfnJGhNh0+kO8x7FSfncxgIsv21O+YyPOnIremdrTFPA8u2H
+Wf0Swu+2mntekVKM6DJG3urdfFIlZtniKxbXKwUDr3ZO73uTnezMXpMpkKLum8L4
+t8qd4CNM+39DvEelCM0xl8dYNNuFYoabUT9e3o+cpgN3GORSckqxb9YzO8gt5CRg
+4ZHSWG9n/MahX9v3cHx6a88zs3/HGO+wkBMiym5jhNe43MVR7p7YqtFOnSwBSkpa
+IJihon1Wjjae1ZSWQhuzAw4X0EGj//M0MkOsmLJX+mzMvcqCSLzjEdNx/qFmBZ6A
+XRThgwzV
+=ygmQ
 -----END PGP SIGNATURE-----

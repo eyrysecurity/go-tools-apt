@@ -1,6 +1,6 @@
 Archive: stable
 Component: main
-Origin: Eyry
-Label: Eyry Github
+Origin: Eyry Security
+Label: Go Tools Apt Repository
 Architecture: amd64
-Description: Debian x64 github repository
+Description: Debian x64 github repository for Go tools
