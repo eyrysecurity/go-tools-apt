@@ -1,0 +1,23 @@
+{
+    "name": "subfinder",
+    "maintainer": "ProjectDiscovery",
+    "description": "Subdomain discovery tool that discovers valid subdomains for websites",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/projectdiscovery/subfinder",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/subfinder",
+            "to": "/usr/bin",
+            "base": "/home/pry/go/bin",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "ProjectDiscovery",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}

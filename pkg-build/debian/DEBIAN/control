@@ -1,0 +1,11 @@
+Package: dnsx
+Version: 1.0.0
+Source: dnsx
+Section: unknown
+Priority: extra
+Maintainer: ProjectDiscovery
+Homepage: https://github.com/projectdiscovery/dnsx
+Description: DNSX is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers
+Architecture: amd64
+Installed-Size: 229 kB
+Package-Type: deb

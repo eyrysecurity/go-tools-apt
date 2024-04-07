@@ -1,0 +1,23 @@
+{
+    "name": "dnsx",
+    "maintainer": "ProjectDiscovery",
+    "description": "DNSX is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/projectdiscovery/dnsx",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/dnsx",
+            "to": "/usr/bin",
+            "base": "/home/pry/go/bin",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "ProjectDiscovery",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}

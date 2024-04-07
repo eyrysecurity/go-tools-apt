@@ -1,0 +1,23 @@
+{
+    "name": "nuclei",
+    "maintainer": "ProjectDiscovery",
+    "description": "Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/projectdiscovery/nuclei",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/nuclei",
+            "to": "/usr/bin",
+            "base": "/home/pry/go/bin",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "ProjectDiscovery",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}

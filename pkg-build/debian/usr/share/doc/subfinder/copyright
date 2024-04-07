@@ -1,0 +1,10 @@
+Format-Specification: http://anonscm.debian.org/viewvc/dep/web/deps/dep5/copyright-format.xml?view=markup
+Name: subfinder
+Maintainer: ProjectDiscovery
+Source: https://github.com/projectdiscovery/subfinder
+
+Files: *
+Copyright: ProjectDiscovery
+License: MIT
+File: LICENSE
+

@@ -1,0 +1,23 @@
+{
+    "name": "httpx",
+    "maintainer": "ProjectDiscovery",
+    "description": "Fast and Multi-purpose HTTP Toolkit",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/projectdiscovery/httpx",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/httpx",
+            "to": "/usr/bin",
+            "base": "/home/pry/go/bin",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "ProjectDiscovery",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}

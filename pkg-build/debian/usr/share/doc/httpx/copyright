@@ -1,0 +1,10 @@
+Format-Specification: http://anonscm.debian.org/viewvc/dep/web/deps/dep5/copyright-format.xml?view=markup
+Name: httpx
+Maintainer: ProjectDiscovery
+Source: https://github.com/projectdiscovery/httpx
+
+Files: *
+Copyright: ProjectDiscovery
+License: MIT
+File: LICENSE
+
