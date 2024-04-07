@@ -15,6 +15,23 @@ Architecture: amd64
 Installed-Size: 51 kB
 Package-Type: deb
 
+Package: nuclei
+Version: 1.0.0
+Source: nuclei
+Maintainer: ProjectDiscovery
+Homepage: https://github.com/projectdiscovery/nuclei
+Priority: 0
+Section: utils
+Filename: pool/main/n/nuclei/nuclei_1.0.0_amd64.deb
+Size: 78032870
+SHA256: 64270e4fae77ba58aab795a4316b4985be201079a05b52891b77f7ca5ca9cefa
+SHA1: f1d7b563d759fb9ac3e4b8ec1eac659c557a7856
+MD5sum: 14f4a4d4117db89978aaf536285dbcb3
+Description: Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use
+Architecture: amd64
+Installed-Size: 191 kB
+Package-Type: deb
+
 Package: subfinder
 Version: 1.0.0
 Source: subfinder
