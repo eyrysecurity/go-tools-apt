@@ -6,10 +6,10 @@ Homepage: https://github.com/tomnomnom/anew
 Priority: 0
 Section: utils
 Filename: pool/main/a/anew/anew_0.1.1_amd64.deb
-Size: 1184886
-SHA256: 417f1246c50eacaf729f758e858e2461c70edda4f070ecef9dc1453e672fd361
-SHA1: bc5beb323b2b108350702490811f0b87280ce38a
-MD5sum: bb461f13d131e2e8fd32787cec9721af
+Size: 1184908
+SHA256: c690121c6527c0a1e6d13281c08c9566277b437391207bb0af053948ae6c144e
+SHA1: 2a5108edf619359765a9e95a9c98082a7def4e60
+MD5sum: dd3183616f715221352cf60e1cf437cd
 Description: A tool for adding new lines to files, skipping duplicates
 Architecture: amd64
 Installed-Size: 2.0 kB
@@ -23,10 +23,10 @@ Homepage: https://github.com/projectdiscovery/dnsx
 Priority: 0
 Section: utils
 Filename: pool/main/d/dnsx/dnsx_1.2.1_amd64.deb
-Size: 15139642
-SHA256: e509a15445c784fb53bb943274202ea2e40626d31ebbf6641af8899bcd582dd9
-SHA1: 274184a9dbe09217be295be7693d84417f41db6a
-MD5sum: 202f0f4d290ae458aa18866ac9ee6037
+Size: 15139528
+SHA256: 6b9fe092ebdf0f91ac03e61cec183dfc35c2fe42ce8ae142e79e74a4fe697f07
+SHA1: bb119ec64a8ed413ff0551189fb1baed4a5c2c77
+MD5sum: 64e2fe5b0e8766e12c61de988b839c0c
 Description: DNSX is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers
 Architecture: amd64
 Installed-Size: 37 kB
@@ -40,10 +40,10 @@ Homepage: https://github.com/ffuf/ffuf
 Priority: 0
 Section: utils
 Filename: pool/main/f/ffuf/ffuf_2.1.0_amd64.deb
-Size: 6143188
-SHA256: 585dc692d166270bcf8d02968710df1b95580962f1b15e6438ff8eda2609ed51
-SHA1: 1c2b3f2cd2aec17b8c52de060622cbb203b31d55
-MD5sum: 7bf8cb3e44af634ddb69c0cdd9ce3ec6
+Size: 6143010
+SHA256: 3eb164b621fe4681441527751d1b1c966521faaa8da6fb19f4b81d91f0691e67
+SHA1: d8030eedd9f2c7bbe1f06fbfdb3d9d7a08a630f2
+MD5sum: e47428b2cdf568af2dd2c6ff6b381ef2
 Description: Fast web fuzzer written in Go
 Architecture: amd64
 Installed-Size: 12 kB
@@ -57,10 +57,10 @@ Homepage: https://github.com/tomnomnom/httprobe
 Priority: 0
 Section: utils
 Filename: pool/main/g/gron/gron_0.2_amd64.deb
-Size: 4218572
-SHA256: 32a8db28187fb307e6faae684da6d4401e869025f9d479048cf07a9eef32aa80
-SHA1: c7159a81769ed9ada85d9a4784d97f7111ace5e7
-MD5sum: aa8d4721489a54d2a31e7726059c99b6
+Size: 4218560
+SHA256: 2f265a20712316b7650cdaab73c9eb315cc2fd119fe472454e0f163a8c5d3a84
+SHA1: ad08d9fca20c185a7a79fe5b7e19e4871b1149e6
+MD5sum: ab4a55152ad44938deb930e4d9d487b8
 Description: Make JSON greppable!
 Architecture: amd64
 Installed-Size: 7.8 kB
@@ -74,10 +74,10 @@ Homepage: https://github.com/tomnomnom/httprobe
 Priority: 0
 Section: utils
 Filename: pool/main/h/httprobe/httprobe_0.2_amd64.deb
-Size: 3805186
-SHA256: 51c12c3643494f5336000a286eddd33d164bbf5b5ddfde34bf4485b0ea7c797f
-SHA1: 84ea64764488c50624494740697e5808018bbd14
-MD5sum: 27333b49e390d951a0dae5692bb8aec8
+Size: 3805144
+SHA256: 823288c4bb1e9a8404a1bb88200997a3770e9529d268a44431a1ede5dee1afdf
+SHA1: 5e4b120f3a23d545bca070bd5374d2b55990a3c0
+MD5sum: c1bbbee0efa29c94b2d48edf4f33420a
 Description: Take a list of domains and probe for working HTTP and HTTPS servers
 Architecture: amd64
 Installed-Size: 7.0 kB
@@ -91,10 +91,10 @@ Homepage: https://github.com/projectdiscovery/httpx
 Priority: 0
 Section: utils
 Filename: pool/main/h/httpx/httpx_1.6.0_amd64.deb
-Size: 20977918
-SHA256: 1af16b139432da730fdaa435fd6b39947ad775885bd51256e501c7de5d9cb46e
-SHA1: ccc4d31cb41c45b125db792ecd020d01ecd3b0b7
-MD5sum: 49b031fe8199790dd4525d8e9ddc7251
+Size: 20977914
+SHA256: 4a73f7fc16ceda1e800c11c6b6f32122d524aa11b3ef8bb3e753fab1b251ce69
+SHA1: 92c47bdc81114806c805f8e2431182ab179a492f
+MD5sum: ba72583164dde891808e0cda9e5564e1
 Description: Fast and Multi-purpose HTTP Toolkit
 Architecture: amd64
 Installed-Size: 51 kB
@@ -108,10 +108,10 @@ Homepage: https://github.com/projectdiscovery/katana
 Priority: 0
 Section: utils
 Filename: pool/main/k/katana/katana_1.1.0_amd64.deb
-Size: 19449168
-SHA256: 7e090984fe97c350a4f5d9205c05a2884367ebab553c4fd2a8053d9fe4799439
-SHA1: cc03431e6536f141ec1e07fb354174655fae8125
-MD5sum: efda8f4316efcb2cfabd2effb0a5063c
+Size: 19449130
+SHA256: 5aa0f1cdf8a26fee6c3bdc0b7c00484f4c78c7c8490a3428731c33ad32e85f1b
+SHA1: cb2573c2e4e1fc779fb22cb5adb86e85ace9026d
+MD5sum: f738d43ea67fdb9448be4ca0a8c954c8
 Description: A HTTP crawler
 Architecture: amd64
 Installed-Size: 48 kB
@@ -125,10 +125,10 @@ Homepage: https://github.com/projectdiscovery/nuclei
 Priority: 0
 Section: utils
 Filename: pool/main/n/nuclei/nuclei_3.2.3_amd64.deb
-Size: 41707466
-SHA256: 54277fe44cecca80c19405bad848a7b47f09f08e15e4f0f60355562fe3cd6c31
-SHA1: 403f6239a7e683dae98364ee0ff6abe023616618
-MD5sum: 607abf5c70096d8e86a517ab27a15c4b
+Size: 41707460
+SHA256: 8ee28b4b5e3840932da9b25472a5d041ea543f59d183a472cf0a60e709fc35e0
+SHA1: b69c4a9b033018c6a2b8dc16d7b618107b958844
+MD5sum: 83a779acbcb94d49cc7f27d1571beba0
 Description: Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use
 Architecture: amd64
 Installed-Size: 102 kB
@@ -142,10 +142,10 @@ Homepage: https://github.com/tomnomnom/qsreplace
 Priority: 0
 Section: utils
 Filename: pool/main/q/qsreplace/qsreplace_0.0.3_amd64.deb
-Size: 1221442
-SHA256: 0bd1ff4815cc032d0b98131c7b39bb428214e3720089e4021c3eb863620ef756
-SHA1: 9699508a858598cf2395c498132b78754cc00f3f
-MD5sum: 199e36daed1e5abf163b66664f10f467
+Size: 1221326
+SHA256: 0c9b9bc548b31a80d05ba509b82da798579317e56406cfdce870a120e0f59635
+SHA1: 3a6bbc045a86b01fe9a0f654abb0edcaea68bcb5
+MD5sum: 346a57b03eecc35f4b817e29cd5f24b8
 Description: Replace parameter values in URLs with different values
 Architecture: amd64
 Installed-Size: 2.1 kB
@@ -159,10 +159,10 @@ Homepage: https://github.com/projectdiscovery/subfinder
 Priority: 0
 Section: utils
 Filename: pool/main/s/subfinder/subfinder_2.6.6_amd64.deb
-Size: 15344512
-SHA256: 3b765973c475a577b613c61c3bcd50433a1c10f04e2e85e8c544937c53157066
-SHA1: 11d65f7f5213014ce551336162d26a05c880fec5
-MD5sum: f10572c53696153470d952bca9125ebe
+Size: 15344584
+SHA256: e78a3aa3063fd04692417c5e3180c03e43dafeb8a9593fe8aa3ba4c9f3b61b75
+SHA1: 0548195d871d0b194a3fb0a1a7c9f1e6d2af4190
+MD5sum: fff91cacc3d71fb94c2314a6d1e7b290
 Description: Subdomain discovery tool that discovers valid subdomains for websites
 Architecture: amd64
 Installed-Size: 38 kB
@@ -176,10 +176,10 @@ Homepage: https://github.com/tomnomnom/unfurl
 Priority: 0
 Section: utils
 Filename: pool/main/u/unfurl/unfurl_0.4.3_amd64.deb
-Size: 4120346
-SHA256: f3e587cfaa68302f4fa865b3ed3fd14386d29deb1145038a83d3562e40ae6260
-SHA1: 3430c4b8be7869b1616ce34f1bb444f510791089
-MD5sum: cf905a42824258730b457997d3223bcf
+Size: 4120394
+SHA256: fea8fea41a4e79c4fb1151b09b3156f6ed6c460d7d3cb177054132f1b2d0c8dc
+SHA1: 64668b8e9e2b81e7036d4df263e2c6923f1373c8
+MD5sum: 2ceb8951e807332f14032643daceaf0c
 Description: Unfurl URLs and extract useful information from them
 Architecture: amd64
 Installed-Size: 7.6 kB
@@ -193,10 +193,10 @@ Homepage: https://github.com/tomnomnom/waybackurls
 Priority: 0
 Section: utils
 Filename: pool/main/w/waybackurls/waybackurls_0.1.0_amd64.deb
-Size: 3981324
-SHA256: 0fb9931f04d502c41bf26deab9c1d25e1e7e9b8fd29650c98f046e7371242f1c
-SHA1: 34e1c5a6e88f6d6874543bfaf3f546dfdef8bd13
-MD5sum: 640f9161e842f4a4a65419e3ae5952f8
+Size: 3981310
+SHA256: af52b3151ccff23b4804ec65be66e044b41062abbfe90092c74ca66da22611a2
+SHA1: fd655a097789ea4b5180278756d1b59eae16d86d
+MD5sum: d6dd81d424db83174c0b55c548603e14
 Description: Fetch all the URLs that the Wayback Machine knows about for a domain
 Architecture: amd64
 Installed-Size: 7.4 kB
