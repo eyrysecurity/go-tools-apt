@@ -7,8 +7,8 @@
     "files": [
         {
             "from": "/home/pry/go/bin/httpx",
-            "to": "/usr/bin",
-            "base": "/home/pry/go/binhttpx",
+            "to": "/usr/bin/httpx",
+            "base": "/home/pry/go/bin/httpx",
             "fperm": "0755"
         }
     ],
