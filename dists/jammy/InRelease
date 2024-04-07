@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Eyry
+Label: Eyry Github
+Suite: stable
+Codename: jammy
+Date: Sun, 07 Apr 2024 06:51:37 UTC
+Architectures: amd64
+Components: main
+Description: Debian x64 github repository
+MD5Sum:
+ 2ba3695368efd433f88c92f210b1c48f 2191 main/binary-amd64/Packages
+ eee63ced530730b2ecb92094cdc849e9 967 main/binary-amd64/Packages.gz
+ 38552f03e3c16db28d702405283a684e 126 main/binary-amd64/Release
+SHA1:
+ 864a3303d61b7d00b61f904100bfa95a84f36a91 2191 main/binary-amd64/Packages
+ 462de9823d4c48507839249f6e4a13daf900ba18 967 main/binary-amd64/Packages.gz
+ 5dc12592ef947eb85da8f1f1f1957b904f4110a9 126 main/binary-amd64/Release
+SHA256:
+ 5aa2aae4057f9648e8cc87ca7b990987714d36422ba7ba014020cd05c823de52 2191 main/binary-amd64/Packages
+ cfab9c069692eb13ea76af1b0d14e9e773231837aae323a2fd99517f326f53f7 967 main/binary-amd64/Packages.gz
+ 36079b491a6e104672279c19ae8da3ead2e0e73cded5f22c2609779e6cc0f7a7 126 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEGPPg/q7F+lwSFQPzSPL+R9MRlPMFAmYSQnkACgkQSPL+R9MR
+lPNozwv5ARmHw3wLenQ+8+9iJro/r18j52b88pdSy2PuGmELtkyxo6gop7tCHAxj
+GxG5Orn86K3fQ33dMN3q7f1b75G/E4iqf8o3i0CrQvs3lZDBpUiHT2IqJQSWf13t
+aFaDrpff5MQx2i3Td8wCvfbysQDB04oXeqe0E0ETgVADJskkPNK3pvmvdolk+s3k
+foCL5l2FZMlsR/KCyMyW0jfu6S5TaLlUYpVDymBeBX8vQbZOIvh9UXFLnaqNWU0f
+zExDEf4Fqi/XDzhZUrn9cApLfhhg1psuotoR3sbwt3xPPC4/m1zQz2Bt1dA2cy0+
+NNx5ts858XrQiF9ayvXxfaIi//cUtxGKrvIXTXardqktQqn4YLwpNo8J5Nc4oIxc
+xd38DGYekF54//msxpMv2fnv5DC7l7MCdG7BLiXpOlbytaDLdStVJ8a3vOgXC+Ho
+v7BPm4TFkx/FHjYSFfEbwknKAebuT6ZNwcGAXyBvNBqPl4HRfi6thUbsGewweaOy
+KK5iMwsN
+=0rXT
+-----END PGP SIGNATURE-----

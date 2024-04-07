@@ -1,0 +1,68 @@
+Package: dnsx
+Version: 1.2.1
+Source: dnsx
+Maintainer: ProjectDiscovery
+Homepage: https://github.com/projectdiscovery/dnsx
+Priority: 0
+Section: utils
+Filename: pool/main/d/dnsx/dnsx_1.2.1_amd64.deb
+Size: 15139648
+SHA256: 13ab98135aeb9625473277f508f073730223a586e8b2b924514ef58231d1a7d2
+SHA1: 850a33285dfa6a3047995a2383c311f460d9d07f
+MD5sum: 56b8f9d255f097a6de52ac0f4ed89cdf
+Description: DNSX is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers
+Architecture: amd64
+Installed-Size: 37 kB
+Package-Type: deb
+
+Package: httpx
+Version: 1.6.0
+Source: httpx
+Maintainer: ProjectDiscovery
+Homepage: https://github.com/projectdiscovery/httpx
+Priority: 0
+Section: utils
+Filename: pool/main/h/httpx/httpx_1.6.0_amd64.deb
+Size: 20977906
+SHA256: 02baf8eae5d5ad7a0d02caa812bbbd8aae15c4064e5952d111fc4d0bf62bdb5e
+SHA1: f82e7d85dd2c66a4ecd5bb58ad52a9b370cb7e8f
+MD5sum: 976da17a064aef29bcd327e28a977b4d
+Description: Fast and Multi-purpose HTTP Toolkit
+Architecture: amd64
+Installed-Size: 51 kB
+Package-Type: deb
+
+Package: nuclei
+Version: 3.2.3
+Source: nuclei
+Maintainer: ProjectDiscovery
+Homepage: https://github.com/projectdiscovery/nuclei
+Priority: 0
+Section: utils
+Filename: pool/main/n/nuclei/nuclei_3.2.3_amd64.deb
+Size: 41707418
+SHA256: d6f9a05b381c116f00e35082e4771c01b7c5f4c801d001d238b5faaa649056a3
+SHA1: f5050ef90b74de9ad4ec8e327a2637dfc469e46c
+MD5sum: b3376f3bea5f4a89d39b7dcc07cafd4f
+Description: Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use
+Architecture: amd64
+Installed-Size: 102 kB
+Package-Type: deb
+
+Package: subfinder
+Version: 2.6.6
+Source: subfinder
+Maintainer: ProjectDiscovery
+Homepage: https://github.com/projectdiscovery/subfinder
+Priority: 0
+Section: utils
+Filename: pool/main/s/subfinder/subfinder_2.6.6_amd64.deb
+Size: 15344502
+SHA256: 68ef415b7e4dfa7ede0b12857d714dcb4783f62c86f966f97c677b5362d8b1ac
+SHA1: b6e69be9f0de8f81c0f0f65cdc4cd5aa55d0919e
+MD5sum: 06d0dc5429f3dc774d51d62e774a4b3f
+Description: Subdomain discovery tool that discovers valid subdomains for websites
+Architecture: amd64
+Installed-Size: 38 kB
+Package-Type: deb
+
