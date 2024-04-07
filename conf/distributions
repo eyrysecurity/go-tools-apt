@@ -6,3 +6,4 @@ Codename: jammy
 Architectures: amd64
 Components: main
 Description: Debian x64 github repository
+SignWith: eyrysecurity@gmail.com

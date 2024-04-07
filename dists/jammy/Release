@@ -2,19 +2,19 @@ Origin: Eyry
 Label: Eyry Github
 Suite: stable
 Codename: jammy
-Date: Sun, 07 Apr 2024 05:19:30 UTC
+Date: Sun, 07 Apr 2024 05:36:49 UTC
 Architectures: amd64
 Components: main
 Description: Debian x64 github repository
 MD5Sum:
- 35290f0e966202562b685c5fede82ca7 2192 main/binary-amd64/Packages
- 3d8df647f0b7baaf670802e731daefff 943 main/binary-amd64/Packages.gz
+ 6688694245a1ca1d40e945d1ea2581f0 488 main/binary-amd64/Packages
+ 0cf73c4a5aa48416264dd2d4674ded0a 359 main/binary-amd64/Packages.gz
  38552f03e3c16db28d702405283a684e 126 main/binary-amd64/Release
 SHA1:
- c6e7e2d3af6b7a349fbd321368677085b109a665 2192 main/binary-amd64/Packages
- 391a718317db363f2d69d540698290e1feca0942 943 main/binary-amd64/Packages.gz
+ 75a3cc2e7748b11de96bb83b2d115447619c63dc 488 main/binary-amd64/Packages
+ fcdb7a594ddf0e9f17bc1fa5cf55adaa15cfb6b0 359 main/binary-amd64/Packages.gz
  5dc12592ef947eb85da8f1f1f1957b904f4110a9 126 main/binary-amd64/Release
 SHA256:
- d1ca1d52a00236598aad8a838b8719266b9a4c68796d3c5e4696af3791fee9ac 2192 main/binary-amd64/Packages
- 124475e79533804302ce50da18bc43eca5da1ff16e4dd9ffc44515b52b7c7314 943 main/binary-amd64/Packages.gz
+ 86173ca1c6e837e16b3d0e281e831003f0a6fe864b9f2ba8d82ea4db230db2ee 488 main/binary-amd64/Packages
+ 988a0cbc6bc410b59e99402d089c4251dc2df650673ace0c6d0dec11ea9a4176 359 main/binary-amd64/Packages.gz
  36079b491a6e104672279c19ae8da3ead2e0e73cded5f22c2609779e6cc0f7a7 126 main/binary-amd64/Release
