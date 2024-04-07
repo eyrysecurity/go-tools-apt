@@ -5,33 +5,33 @@ Origin: Eyry Security
 Label: Go Tools Apt Repository
 Suite: stable
 Codename: jammy
-Date: Sun, 07 Apr 2024 08:14:43 UTC
+Date: Sun, 07 Apr 2024 08:19:57 UTC
 Architectures: amd64
 Components: main
 Description: Debian x64 github repository for Go tools
 MD5Sum:
- b96fa5826e048f1520e2f8de070e3741 6125 main/binary-amd64/Packages
- fc87cb93f5f9cd33604c7af758f753e0 2269 main/binary-amd64/Packages.gz
+ 60a842ba1359c4046a6208e7db68f62c 6125 main/binary-amd64/Packages
+ d12ddee5392552b23d0b25eee18442a3 2276 main/binary-amd64/Packages.gz
  df40ead2efc715adb9cb2df54cef434b 160 main/binary-amd64/Release
 SHA1:
- 7a682052a2c80139c62d4b8eca03d3869389971c 6125 main/binary-amd64/Packages
- 67517753917304a9fa8044ea73bdc8d83bfa90de 2269 main/binary-amd64/Packages.gz
+ a18d898d36a6d411def87dd35a5aa6919753eb18 6125 main/binary-amd64/Packages
+ e32f0ad5564122f5de19b3a0368c10a4c88167bb 2276 main/binary-amd64/Packages.gz
  50710c32dbbc3604b3e6efa58c972ba9ae184c3f 160 main/binary-amd64/Release
 SHA256:
- 6840656872b6342380054c0729af715443d4420ddd49c434090698a0cb6dbc9b 6125 main/binary-amd64/Packages
- 35e3c9f823612f94ac7f19b73b3c26393a3924b8c9f074b0a73f30d37fa90dbf 2269 main/binary-amd64/Packages.gz
+ 4d87508d993776e826d1a863ca285aba2fee4a44344dd2a59231f411d4447a61 6125 main/binary-amd64/Packages
+ 05a17391a561d09e0f67cebcbf7b0f602a80b15fb7a9997db74a0651d3e3f05f 2276 main/binary-amd64/Packages.gz
  6b5fdc3252290f48cfac2340c62e331924de65049359007dbace179feecfc4b9 160 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEEGPPg/q7F+lwSFQPzSPL+R9MRlPMFAmYSVfMACgkQSPL+R9MR
-lPPOZAv9F7UcALOCAX6tEDCK3NcboIWc1XrKPCgXPjgfgABvQS2rVHSjXxm5M8AQ
-mFf6Oa8Xl8v3QdrUaNXQBGjXTbYQjWfmTiklzw/zfox4fcnPqliy21PVHjvnST2J
-IAqzsmvoacGr7SV7a9ZS6iupzZEUk/Y9SciAId7L+BAoCyRvXW/wkbZtXsRwoXoO
-ZXAt5NXcx+9GK9v3JGls/KD3AF3L7/OzoYN8NNqbbwcstZAe9HTvcYbFCI9+rjdW
-bo1iQnD5ILTpma8zE6KRDmHd3oaCpwgCUmCY4MPSsTX0ZuoK20hAQStDtxwhNS6F
-fzklwEtYfTSy94ul+9Na+paitq25T68QmqzHEDUVe9n6VOyRycYug6KVFbyip73N
-azP5EZBHsCkfrIkgJQX+cMru+fihu7cJ0ke4Dtwb5ARIkvuFbXBjgF5IK5Bz1bV6
-dOxHmvrSH2bsD/mXwei+lWEsQIjsb85d5hXO4fg2bxOTS2vZ804tHoBZ5sl17cGy
-YBYj0LSK
-=8TcS
+iQGzBAEBCAAdFiEEGPPg/q7F+lwSFQPzSPL+R9MRlPMFAmYSVy0ACgkQSPL+R9MR
+lPOcfwwAgm9RhuGNxPEVCP3/XP6Sbks2XAf52ARR//dGIx8IV2B0cTLe8LFlC543
+4gWF4VpENaeQERumLpPgbCAA/jRaj8DVF3WHUnXyc3jHFQNSY9Wtsh+R/ZejOkyG
+MhxlI2YTsQrXmm5o7dRL1kwCNaVoYFpKQ4Cu1FrY4CsFcqKlczpXRH39dE9GfA81
+nKjfok32E2AyXsm+IXsy86zufEREimG68HJIiHG/obd7fWA4zaRAIZhCtnLMCwVU
+WYW28I7wGq6/ljEDvc2tkfT33BDZuqhABw3rwDDkF2agV81XNzBdK+ZE2dKtx0BQ
+nT1rTtoFqyjjAQP0/S3WE17svmWmjpxbquR1XGG5UrZMp4LGKQ1ADrdCF3JfnitY
+rbhD5NIM9kLYMQIuJndP7UO36I15yIrSuqfwPY8UMeef4e2QyYUIblGHkE89a5hP
+0o25QJ5+TZqaCIKlTFaTUIVHb/+5t6RcgBwkDVAN5K3cUYMIsZpTsdhsxkh3kUys
+9uqOBid6
+=NTFY
 -----END PGP SIGNATURE-----
