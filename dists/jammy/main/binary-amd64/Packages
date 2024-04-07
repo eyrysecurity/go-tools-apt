@@ -6,13 +6,13 @@ Homepage: https://github.com/projectdiscovery/dnsx
 Priority: 0
 Section: utils
 Filename: pool/main/d/dnsx/dnsx_1.0.0_amd64.deb
-Size: 93159634
-SHA256: c26d762c5478db56df1ddb3494cccbb23bf341cb5023301ef208ef2cba810923
-SHA1: 165e9ef6a80a22f9b3348b5132d0f56852ddd831
-MD5sum: 4d00818f95a5cf6258e7a3ee118fd7ed
+Size: 72193540
+SHA256: cbb13549d7463a78cfcce4279d0e50f3923e0e58227c998abbea0c512c5ac6b8
+SHA1: a4958b030b07117c1cb7d46607800d72e268d82c
+MD5sum: 3eb9b310923fae8a58baeb8df5f4a694
 Description: DNSX is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers
 Architecture: amd64
-Installed-Size: 229 kB
+Installed-Size: 178 kB
 Package-Type: deb
 
 Package: httpx
@@ -23,10 +23,10 @@ Homepage: https://github.com/projectdiscovery/httpx
 Priority: 0
 Section: utils
 Filename: pool/main/h/httpx/httpx_1.0.0_amd64.deb
-Size: 20977924
-SHA256: a7b37dc58042ee574178e01218cd25c9f552765ff552b87607adf9f1d57ef836
-SHA1: cdc4ded9646d203b8af2a5c37c5bcaaa8d6d6ce1
-MD5sum: cc5b758e2d00ce1ca9d34bb882104c65
+Size: 20977962
+SHA256: 1d841d181baf1cf932adfaafd80e96007545aa5c69e95df3d004781484f56868
+SHA1: 6045b1dd3de54eb8fbecb11fc4f0003343c58749
+MD5sum: eabf1d14fce933deb1a4695341c71b20
 Description: Fast and Multi-purpose HTTP Toolkit
 Architecture: amd64
 Installed-Size: 51 kB
@@ -40,10 +40,10 @@ Homepage: https://github.com/projectdiscovery/nuclei
 Priority: 0
 Section: utils
 Filename: pool/main/n/nuclei/nuclei_1.0.0_amd64.deb
-Size: 78032936
-SHA256: ccb625de2f6c0e8d20fb96899f01644105856c8569ab99e3a56b943ac8178b1e
-SHA1: d349107653e1d5fc0860fa38958c7e1034767c01
-MD5sum: 5dc6452afc3838cfa2647fac51228b01
+Size: 78035582
+SHA256: 68ca598b9d650f9638f4cea4c0b37cbd88ec2a1142359c8e3a6b2f693830a20b
+SHA1: d0e5b4dda6496063158d57e31afb48ff37153ec1
+MD5sum: e9bf2a238e16415f8c8be8fda44bb951
 Description: Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use
 Architecture: amd64
 Installed-Size: 191 kB
@@ -57,10 +57,10 @@ Homepage: https://github.com/projectdiscovery/subfinder
 Priority: 0
 Section: utils
 Filename: pool/main/s/subfinder/subfinder_1.0.0_amd64.deb
-Size: 36322040
-SHA256: d495098ccce09a875f7c165a671a9155465645241c9b999431004fba7e13b49d
-SHA1: 8ef271dd44aee35ed215580e14b737d64299ad2d
-MD5sum: 8e9c384fdf1f23641d866c974b09f7ef
+Size: 36317896
+SHA256: 6709e951eda214f6499e65f60ad7efbe404c41f76a2137ebff4d387d8059dece
+SHA1: 9439c915a0fa3231a7f4525fcb7964a8c5de562e
+MD5sum: a190ffdf0075ccab607983e72c08f327
 Description: Subdomain discovery tool that discovers valid subdomains for websites
 Architecture: amd64
 Installed-Size: 89 kB

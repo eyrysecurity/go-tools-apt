@@ -8,7 +8,7 @@
         {
             "from": "/home/pry/go/bin/httpx",
             "to": "/usr/bin",
-            "base": "/home/pry/go/bin",
+            "base": "/home/pry/go/binhttpx",
             "fperm": "0755"
         }
     ],

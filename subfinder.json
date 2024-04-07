@@ -8,7 +8,7 @@
         {
             "from": "/home/pry/go/bin/subfinder",
             "to": "/usr/bin",
-            "base": "/home/pry/go/bin",
+            "base": "/home/pry/go/binsubfinder",
             "fperm": "0755"
         }
     ],

@@ -8,7 +8,7 @@
         {
             "from": "/home/pry/go/bin/nuclei",
             "to": "/usr/bin",
-            "base": "/home/pry/go/bin",
+            "base": "/home/pry/go/binnuclei",
             "fperm": "0755"
         }
     ],

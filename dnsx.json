@@ -8,7 +8,7 @@
         {
             "from": "/home/pry/go/bin/dnsx",
             "to": "/usr/bin",
-            "base": "/home/pry/go/bin",
+            "base": "/home/pry/go/bindnsx",
             "fperm": "0755"
         }
     ],
