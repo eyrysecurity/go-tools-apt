@@ -15,3 +15,20 @@ Architecture: amd64
 Installed-Size: 51 kB
 Package-Type: deb
 
+Package: subfinder
+Version: 1.0.0
+Source: subfinder
+Maintainer: ProjectDiscovery
+Homepage: https://github.com/projectdiscovery/subfinder
+Priority: 0
+Section: utils
+Filename: pool/main/s/subfinder/subfinder_1.0.0_amd64.deb
+Size: 36322030
+SHA256: f59fbfa0af4aedc8018712e4d367c7a0c3363e244555991afdd4d81af1120752
+SHA1: e8c25d1634edb60231fb7812d54c720986d48dd8
+MD5sum: 52535475f1fec00ef4cebf145fa54878
+Description: Subdomain discovery tool that discovers valid subdomains for websites
+Architecture: amd64
+Installed-Size: 89 kB
+Package-Type: deb
+
