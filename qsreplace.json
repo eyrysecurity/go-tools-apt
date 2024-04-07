@@ -1,0 +1,23 @@
+{
+    "name": "qsreplace",
+    "maintainer": "TomNomNom",
+    "description": "Replace parameter values in URLs with different values",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/tomnomnom/qsreplace",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/qsreplace",
+            "to": "/usr/bin/qsreplace",
+            "base": "/home/pry/go/bin/qsreplace",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "TomNomNom",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}

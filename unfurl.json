@@ -1,0 +1,23 @@
+{
+    "name": "unfurl",
+    "maintainer": "TomNomNom",
+    "description": "Unfurl URLs and extract useful information from them",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/tomnomnom/unfurl",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/unfurl",
+            "to": "/usr/bin/unfurl",
+            "base": "/home/pry/go/bin/unfurl",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "TomNomNom",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}

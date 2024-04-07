@@ -1,0 +1,23 @@
+{
+    "name": "anew",
+    "maintainer": "TomNomNom",
+    "description": "A tool for adding new lines to files, skipping duplicates",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/tomnomnom/anew",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/anew",
+            "to": "/usr/bin/anew",
+            "base": "/home/pry/go/bin/anew",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "TomNomNom",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}

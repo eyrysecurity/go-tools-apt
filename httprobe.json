@@ -1,0 +1,23 @@
+{
+    "name": "httprobe",
+    "maintainer": "TomNomNom",
+    "description": "Take a list of domains and probe for working HTTP and HTTPS servers",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/tomnomnom/httprobe",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/httprobe",
+            "to": "/usr/bin/httprobe",
+            "base": "/home/pry/go/bin/httprobe",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "TomNomNom",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}

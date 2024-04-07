@@ -1,0 +1,23 @@
+{
+    "name": "waybackurls",
+    "maintainer": "TomNomNom",
+    "description": "Fetch all the URLs that the Wayback Machine knows about for a domain",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/tomnomnom/waybackurls",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/waybackurls",
+            "to": "/usr/bin/waybackurls",
+            "base": "/home/pry/go/bin/waybackurls",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "TomNomNom",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}

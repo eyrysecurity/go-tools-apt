@@ -2,19 +2,19 @@ Origin: Eyry Security
 Label: Go Tools Apt Repository
 Suite: stable
 Codename: jammy
-Date: Sun, 07 Apr 2024 06:59:04 UTC
+Date: Sun, 07 Apr 2024 07:16:08 UTC
 Architectures: amd64
 Components: main
 Description: Debian x64 github repository for Go tools
 MD5Sum:
- 17d5148d76af4efe4f9512a4aa42faef 3117 main/binary-amd64/Packages
- a276a02e0d18755df6015455f1ddfb39 1272 main/binary-amd64/Packages.gz
+ 87ecb08e055ba3dc40290701fbdf5451 6125 main/binary-amd64/Packages
+ 417f21b70a55b5fee37346a0fb12b42c 2267 main/binary-amd64/Packages.gz
  df40ead2efc715adb9cb2df54cef434b 160 main/binary-amd64/Release
 SHA1:
- 0577e98ff3ce71f97674f3187c03d2f55845162b 3117 main/binary-amd64/Packages
- 5ee617aca32a95cb95427ae016d80550f3bc3f21 1272 main/binary-amd64/Packages.gz
+ 76d24627a0ada9cc95592894834f1b3b6ae486a6 6125 main/binary-amd64/Packages
+ cbfd7ef9c6821541bdb17e6d2d50a718ea9cbd24 2267 main/binary-amd64/Packages.gz
  50710c32dbbc3604b3e6efa58c972ba9ae184c3f 160 main/binary-amd64/Release
 SHA256:
- 9504201e221f07b980af514b252d12f935db7c4e5c041f239bc53dd5f1aebe29 3117 main/binary-amd64/Packages
- 13b606e5c69df07971ce6b335cf40a207bb29d91ec72995a8134e97aa5326c8a 1272 main/binary-amd64/Packages.gz
+ 16b4471efd1f1e91d04438604944072e9b19ce4db3940a4b68019135d65ff2ae 6125 main/binary-amd64/Packages
+ da12af099fbae9510dbad3cf6742cacba47b4dd206218d576f7493775c3402c0 2267 main/binary-amd64/Packages.gz
  6b5fdc3252290f48cfac2340c62e331924de65049359007dbace179feecfc4b9 160 main/binary-amd64/Release

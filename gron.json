@@ -1,0 +1,23 @@
+{
+    "name": "gron",
+    "maintainer": "TomNomNom",
+    "description": "Make JSON greppable!",
+    "changelog-file": "CHANGELOG.md",
+    "homepage": "https://github.com/tomnomnom/httprobe",
+    "files": [
+        {
+            "from": "/home/pry/go/bin/gron",
+            "to": "/usr/bin/gron",
+            "base": "/home/pry/go/bin/gron",
+            "fperm": "0755"
+        }
+    ],
+    "copyrights": [
+        {
+            "files": "*",
+            "copyright": "TomNomNom",
+            "license": "MIT",
+            "file": "LICENSE"
+        }
+    ]
+}
